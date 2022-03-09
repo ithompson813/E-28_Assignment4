@@ -1,0 +1,34 @@
+#User_hand, #Dealer_hand { 
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+img {
+    display: flex;
+    height: 30px;
+    width: 30px;
+    padding-left: 15px;
+    padding-right: 5px;
+}
+
+.top_space {
+    padding-top: 10px;
+}
+
+#info {
+    display: none;
+    font-weight: 1000;
+    font-size: 36px;
+    padding-bottom: 15px;
+}
+
+body {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.short {
+    width: 60px;
+    block-size: fit-content;
+}

@@ -1,0 +1,28 @@
+h1 {
+    color: blue;
+}
+
+#order_info, #order {
+    text-align: center;
+    padding-top: 3%;
+}
+
+body {
+    text-align: center;  
+}
+
+table, th, td {
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 3px;
+}
+
+label {
+    padding-right: 10px;
+}
+
+.short {
+    width: 40px;
+    block-size: fit-content;
+}
